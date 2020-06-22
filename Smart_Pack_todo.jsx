@@ -2,7 +2,7 @@
   Smart_Pack_todo.jsx for Adobe Illustrator
   Description: Creates and display artwork from imported variables/variable data
   and creates barcodes from a string. It also displays the date, page numbers
-  and name of your file.
+  and name of your file.You need to install ocrb10 font in your computer.
   Date: May, 2019
   Author: Katja Bjerrum, email: katja@productivista.com , www.productivista.com
   ============================================================================
